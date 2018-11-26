@@ -1,0 +1,18 @@
+* {
+    margin: 15px;
+}
+
+input, button {
+    font-size: 30px;
+    display: block;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: all .3s;
+}
+.blue {
+    background-color: blue;
+}
